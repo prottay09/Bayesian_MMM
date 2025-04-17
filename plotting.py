@@ -1,3 +1,5 @@
+# plotting library for pymc-marketting model, DEFAULT library is not working for some use cases
+
 from typing import Literal
 from pymc_marketing.mmm import MMM
 import arviz as az
